@@ -1,26 +1,32 @@
 [
     {
         "name": "John",
-        "email": "john2@example.com"
+        "email": "john2@example.com",
+        "disabled": true
     },
     {
         "name": "John",
-        "email": "john1@example.com"
+        "email": "john1@example.com",
+        "disabled": false
     },
     {
         "name": "Jane",
-        "email": "jane@example.com"
+        "email": "jane@example.com",
+        "disabled": true
     },
     {
         "name": "Kate",
-        "email": "kate@example.com"
+        "email": "kate@example.com",
+        "disabled": true
     },
     {
         "name": "Fiona",
-        "email": "fiona@example.com"
+        "email": "fiona@example.com",
+        "disabled": false
     },
     {
         "name": "Lip",
-        "email": "lip@example.com"
+        "email": "lip@example.com",
+        "disabled": false
     }
 ]
